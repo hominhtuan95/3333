@@ -1,0 +1,7 @@
+BẢN MÔ PHỎNG NGOẠI TUYẾN 4 NHÂN VẬT
+
+Không tìm cửa sổ, không gửi phím/chuột, không tương tác CQ2D.
+Mỗi nhân vật có nút MÔ PHỎNG riêng. Các lộ trình và chu kỳ được hiển thị trong trạng thái.
+Chạy Python: pip install Pillow; python GiaoDienMoPhong.py
+Build EXE: tải toàn bộ thư mục lên gốc GitHub, Actions > Build Offline Simulator Windows > Run workflow.
+Hoặc trên Windows chạy build.bat với Python đã cài.
